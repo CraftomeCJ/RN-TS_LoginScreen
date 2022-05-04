@@ -1,4 +1,6 @@
 {
-  "name": "LoginScreen",
-  "displayName": "LoginScreen"
+  "expo": {
+    "name": "LoginScreen",
+    "slug": "LoginScreen"
+  }
 }
