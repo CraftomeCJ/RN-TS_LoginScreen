@@ -1,9 +1,10 @@
 {
-  "devToolsPort": 19002,
-  "expoServerPort": null,
-  "packagerPort": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
-  "packagerPid": null
+  "devToolsPort": 19003,
+  "expoServerPort": 19001,
+  "packagerPort": 19001,
+  "expoServerNgrokUrl": "https://yp-wh7.anonymous.loginscreen.exp.direct",
+  "packagerNgrokUrl": "https://yp-wh7.anonymous.loginscreen.exp.direct",
+  "ngrokPid": 1753872,
+  "packagerPid": null,
+  "webpackServerPort": null
 }
